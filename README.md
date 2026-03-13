@@ -30,22 +30,3 @@ README.md     -> Project description
 
 Created as a beginner Python project.
 
-Then save the file (Ctrl + S).
-
-Step 4: What this README does
-
-When someone opens your project on GitHub they will immediately see:
-
-what the project does
-
-how to run it
-
-what files are included
-
-This makes your project look serious and well organized.
-
-Step 5 (Next important step)
-
-After this, the next thing you should do is create a GitHub repository and upload your project so you can submit the link for the hackathon.
-
-I can show you the fastest way to upload your project to GitHub in about 5 minutes, even if you’ve never used Git before. 🚀
